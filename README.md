@@ -9,7 +9,7 @@
 ### ✨ Sobre mí
 
 - 🎓 Estudio **Análisis y Desarrollo de Software**
-- 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas con QR y tarjeta de vacunas virtual
+- 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas con tarjeta de vacunas virtual y perfil personal
 - 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**
 - 🌱 Actualmente aprendiendo sobre **Java**, **Dart** y desarrollo ágil
 - 🧩 Me interesan los proyectos con impacto social y tecnología accesible
@@ -50,7 +50,6 @@
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smiling011&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiling011&layout=compact&theme=radical"/>
 </p>
 
 ---

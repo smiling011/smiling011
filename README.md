@@ -8,10 +8,11 @@
 
 ### ✨ Sobre mí
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div style="width: 75%;">
+
 - 🎓 Estudio **Análisis y Desarrollo de Software**  
 - 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
 - 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**  
@@ -20,15 +21,15 @@
 - 🎯 Objetivo: Convertirme en desarrolladora full-stack móvil y web  
 - ✍️ Fun fact: A veces diseño mejor en papel que en pantalla 😅  
 
-    </td>
-    <td valign="top" width="30%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzejJwOXRlN3BwdHBhMHBibno1dHhyaGRtNWQ2aTMyOGZtc2I1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xKRa4f8OO5jiw/giphy.gif" 
-           alt="Cute animation" 
-           width="100"/>
-    </td>
-  </tr>
-</table>
+</div>
 
+<div style="width: 20%;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzejJwOXRlN3BwdHBhMHBibno1dHhyaGRtNWQ2aTMyOGZtc2I1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xKRa4f8OO5jiw/giphy.gif" 
+       alt="Cute animation" 
+       width="100"/>
+</div>
+
+</div>
 ---
 
 ### 🔧 Tecnologías y herramientas

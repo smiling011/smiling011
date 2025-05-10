@@ -10,8 +10,8 @@
 <h2 align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzejJwOXRlN3BwdHBhMHBibno1dHhyaGRtNWQ2aTMyOGZtc2I1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xKRa4f8OO5jiw/giphy.gif" 
        alt="Cute animation" 
-       width="40" 
-       style="vertical-align: middle; margin-left: 50px;" />
+       width="70" 
+       style="vertical-align: middle; margin-left: 10px;" />
 </h2>
 
 - 🎓 Estudio **Análisis y Desarrollo de Software**

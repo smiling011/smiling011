@@ -7,20 +7,22 @@
 ---
 
 ### ✨ Sobre mí
-<h2 align="right">
+
+<p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzejJwOXRlN3BwdHBhMHBibno1dHhyaGRtNWQ2aTMyOGZtc2I1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xKRa4f8OO5jiw/giphy.gif" 
        alt="Cute animation" 
-       width="70" 
-       style="vertical-align: middle; margin-left: 10px;" />
-</h2>
+       width="50" 
+       style="vertical-align: middle; margin-right: 10px;" />
+  Hola, soy Vicky. ✨  
+</p>
 
-- 🎓 Estudio **Análisis y Desarrollo de Software**
-- 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas con tarjeta de vacunas virtual y perfil personal
-- 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**
-- 🌱 Actualmente aprendiendo sobre **Java**, **Dart** y desarrollo ágil
-- 🧩 Me interesan los proyectos con impacto social y tecnología accesible
-- 🎯 Objetivo: Convertirme en una desarrolladora full-stack móvil y web
-- ✍️ Fun fact: A veces diseño mejor en papel que en pantalla 😅
+- 🎓 Estudio **Análisis y Desarrollo de Software**  
+- 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
+- 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**  
+- 🌱 Actualmente aprendiendo **Java**, **Dart** y **desarrollo ágil**  
+- 🧩 Me interesan los proyectos con impacto social y tecnología accesible  
+- 🎯 Objetivo: Convertirme en desarrolladora full-stack móvil y web  
+- ✍️ Fun fact: A veces diseño mejor en papel que en pantalla 😅  
 
 ---
 
@@ -45,10 +47,11 @@
 
 #### 🐾 Dacky
 **App de rastreo GPS para mascotas** con:
-- Tarjeta de vacunación virtual
-- Perfil de mascota
-- Backend en Flask + MySQL
+- Tarjeta de vacunación virtual  
+- Perfil de mascota  
+- Backend en Flask + MySQL  
 - Frontend en Flutter  
+
 📲 [Ver repositorio](https://github.com/smiling011/ProyectoDacky.git)
 
 ---
@@ -61,6 +64,15 @@
 </p>
 
 ---
+
+### 🌍 Conecta conmigo
+
+<p>
+  <a href="mailto:victoriavielmaromero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p> 
+
 
 ### 🌍 Conecta conmigo
 

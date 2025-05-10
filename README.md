@@ -8,7 +8,6 @@
 
 ### ✨ Sobre mí
 
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
 <div style="width: 75%;">
@@ -30,6 +29,7 @@
 </div>
 
 </div>
+
 ---
 
 ### 🔧 Tecnologías y herramientas

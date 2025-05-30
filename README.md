@@ -1,4 +1,8 @@
 <h1 align="center">👋 ¡Hola! Soy Vicky</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smiling011&color=ff69b4&style=flat-square" alt="Perfil Views" />
+</p>
+
 
 <p align="center">
   Estudiante de Análisis y Desarrollo de Software | Apasionada por la tecnología 🧠 y el desarrollo de apps móviles 📱

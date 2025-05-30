@@ -1,28 +1,28 @@
-<h1 align="center">👋 ¡Hola! Soy Vicky</h1>
+<h1 align="center">🌸 ¡Hola! Soy Vicky 💖</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smiling011&color=ff69b4&style=flat-square" alt="Perfil Views" />
 </p>
 
 
 <p align="center">
-  Estudiante de Análisis y Desarrollo de Software | Apasionada por la tecnología 🧠 y el desarrollo de apps móviles 📱
+ 💻 Estudiante de Análisis y Desarrollo de Software | 🌷 Apasionada por el desarrollo móvil y web 💫
 </p>
 
 ---
 
-### ✨ Sobre mí
+### 🌷 Sobre mí
 
 <table>
 <tr>
 <td>
 
-- 🎓 Estudio **Análisis y Desarrollo de Software**  
+- 🎀 Estudio **Análisis y Desarrollo de Software**  
 - 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
 - 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**  
 - 🌱 Actualmente aprendiendo **Java**, **Dart** y **desarrollo ágil**  
-- 🧩 Me interesan los proyectos con impacto social y tecnología accesible  
-- 🎯 Objetivo: Convertirme en desarrolladora full-stack móvil y web  
-- ✍️ Fun fact: A veces diseño mejor en papel que en pantalla 😅  
+- ✨ Me interesan los proyectos con impacto social y tecnología accesible  
+- 💕 Objetivo: Convertirme en desarrolladora full-stack móvil y web  
+- 📝 Fun fact: A veces diseño mejor en papel que en pantalla 😅  
 
 </td>
 <td align="right">
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Tecnologías
+### 💻💖 Tecnologías 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠 Herramientas
+### 🛠🧸 Herramientas 
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -59,16 +59,17 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Proyecto estrella
 
 #### 🐾 Dacky
+<img align="right" src="https://media.giphy.com/media/mQ6V3rZeGJ1jG/giphy.gif" width="120"/>
 **App de rastreo GPS para mascotas** con:
-- Tarjeta de vacunación virtual  
-- Perfil de mascota  
-- Backend en Flask + MySQL  
-- Frontend en Flutter  
+- 📱 Tarjeta de vacunación virtual  
+- 🐶 Perfil de mascota  
+- 🔙 Backend en Flask + MySQL  
+- 🎨 Frontend en Flutter  
 
-📲 [Ver repositorio](https://github.com/smiling011/ProyectoDacky.git)
+📦 [Ver repositorio](https://github.com/smiling011/ProyectoDacky.git)
 
 ---
 
@@ -81,7 +82,7 @@
 
 ---
 
-### 🌍 Conecta conmigo
+### 🌸 Conectemos
 
 <p>
   <a href="mailto:victoriavielmaromero@gmail.com">

@@ -88,9 +88,7 @@
 
 ### 🎧 Escuchando música
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bybnmgq7g6yiw53s34qdyavbiq&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=false" />
-</p>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31bybnmgq7g6yiw53s34qdyavbiq&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=false)](https://open.spotify.com/user/31bybnmgq7g6yiw53s34qdyavbiq)
 
 ---
 

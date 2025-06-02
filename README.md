@@ -1,4 +1,4 @@
-![logo](./assets/Soy smiling.png)
+![logo](./assets/banner.png)
 
 <h1 align="center">🌸 ¡Hola! Soy Vicky 💖</h1>
 

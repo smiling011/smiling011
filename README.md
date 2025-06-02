@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNhMTZmZGM4eTJzMDN0OWZvdmVqeGo0Y3JrbzRydGtuNzJreHE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXHMY4YnACnq2qUzM8/giphy.gif" width="100%" />
-</p>
+![logo](./assets/Soy smiling.png)
 
 <h1 align="center">🌸 ¡Hola! Soy Vicky 💖</h1>
 

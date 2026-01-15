@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- 💻 Estudiante de Análisis y Desarrollo de Software | 🌷 Apasionada por el desarrollo móvil y web 💫
+ 💻 Estudiante de Ingeniería de Software | 🌷 Apasionada por el desarrollo móvil y web 💫
 </p>
 
 ---
@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-- 🎀 Estudio **Análisis y Desarrollo de Software**  
+- 🎀 Estudio **Ingeniería de Software**  
 - 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
 - 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**  
 - 🌱 Actualmente aprendiendo **Java**, **Dart** y **desarrollo ágil**  

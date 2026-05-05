@@ -20,8 +20,8 @@
 
 - 🎀 Estudio **Ingeniería de Software**  
 - 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
-- 💻 Me encanta crear soluciones útiles con **Flutter, Python y MySQL**  
-- 🌱 Actualmente aprendiendo **Java**, **Dart** y **desarrollo ágil**  
+- 💻 Manejo principalmente **Flutter, Python y C#**  
+- 🌱 Actualmente aprendiendo **ASP.NET**, **Dart** y **SQL Server**  
 - ✨ Me interesan los proyectos con impacto social y tecnología accesible  
 - 💕 Objetivo: Convertirme en desarrolladora full-stack móvil y web  
 - 📝 Fun fact: A veces diseño mejor en papel que en pantalla 😅  
@@ -46,11 +46,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  
 </p>
 
 ### 🛠🧸 Herramientas 
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -61,7 +68,7 @@
 
 ---
 
-### 🚀 Proyecto estrella
+### 🚀 Proyecto DACKY
 
 #### 🐾 Dacky
 
@@ -78,9 +85,17 @@
 ### 📊 Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smiling011&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiling011&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smiling011&show_icons=true&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiling011&layout=compact&theme=rose_pine"/>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smiling011/smiling011/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smiling011/smiling011/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/smiling011/smiling011/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 

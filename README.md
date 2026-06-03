@@ -1,6 +1,6 @@
 ![logo](./assets/banner.png)
 
-<h1 align="center">🌸 ¡Hola! Soy Vicky 💖</h1>
+<h1 align="center">🌸 ¡Hola! Soy Victoria 💖</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smiling011&color=ff69b4&style=flat-square" alt="Perfil Views" />

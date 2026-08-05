@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- 💻 Estudiante de Ingeniería de Software | 🌷 Apasionada por el desarrollo móvil y web 💫
+ 💻 Estudiante de Software | 🌷 Apasionada por el desarrollo móvil y web 💫
 </p>
 
 ---
@@ -19,7 +19,7 @@
 <td>
 
 - 🎀 Estudio **Ingeniería de Software**  
-- 🐶 Fundadora de **Dacky**, una app para rastreo GPS de mascotas  
+- 🐶 Desarrolladora y autora de **Dacky**, una app para rastreo GPS de mascotas  
 - 💻 Manejo principalmente **Flutter, Python y C#**  
 - 🌱 Actualmente aprendiendo **ASP.NET**, **Dart** y **SQL Server**  
 - ✨ Me interesan los proyectos con impacto social y tecnología accesible  

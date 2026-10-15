@@ -65,7 +65,10 @@
 ### ☁️ Salesforce
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="48" height="48" alt="Salesforce"/>
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0"
+     width="48"
+     height="48"
+     alt="Salesforce"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce development"/>
 </p>
 

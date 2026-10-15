@@ -65,10 +65,12 @@
 ### ☁️ Salesforce
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="48" height="48" alt="Salesforce"/>
-  <img src="https://img.shields.io/badge/LWC-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Lightning Web Components"/>
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Apex"/>
-  <img src="https://img.shields.io/badge/SOQL-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="SOQL"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce development"/>
+</p>
+
+<p>
+  <sub>Apex · SOQL · Lightning Web Components (LWC)</sub>
 </p>
 
 ### 🗄️ Bases de datos
